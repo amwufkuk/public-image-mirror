@@ -559,3 +559,5 @@ registry.k8s.io/sig-storage/nfsplugin
 registry.k8s.io/sig-storage/smbplugin
 registry.k8s.io/sig-storage/snapshot-controller
 registry.k8s.io/test-webserver
+milvusdb/milvus:v2.5.14
+minio/minio:RELEASE.2024-05-28T17-19-04Z
